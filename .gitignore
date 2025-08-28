@@ -1,0 +1,33 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+tmp/
+
+# Backup files
+*.bak
+*~
+*.swp
+
+# Test output
+test/
+output/
+*.h264
+*.h265
+
+# Compiled binaries (if any)
+*.o
+*.so
+*.a
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# Temporary files
+temp/
+cache/
